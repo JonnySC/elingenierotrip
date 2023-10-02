@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/elingenierotrip/static/css/main.073c9b0a.css",
-    "main.js": "/elingenierotrip/static/js/main.6ccdda5a.js",
+    "main.js": "/elingenierotrip/static/js/main.f2a8f9b8.js",
     "static/js/787.9c9f986c.chunk.js": "/elingenierotrip/static/js/787.9c9f986c.chunk.js",
     "static/media/logo.svg": "/elingenierotrip/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/elingenierotrip/index.html",
     "main.073c9b0a.css.map": "/elingenierotrip/static/css/main.073c9b0a.css.map",
-    "main.6ccdda5a.js.map": "/elingenierotrip/static/js/main.6ccdda5a.js.map",
+    "main.f2a8f9b8.js.map": "/elingenierotrip/static/js/main.f2a8f9b8.js.map",
     "787.9c9f986c.chunk.js.map": "/elingenierotrip/static/js/787.9c9f986c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6ccdda5a.js"
+    "static/js/main.f2a8f9b8.js"
   ]
 }
